@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "name": "Шоколад",
+            "price": 50,
+            "weight": 100,
+            "available": true
+        },
+        {
+            "name": "Кофе",
+            "price": 100,
+            "weight": 250,
+            "available": false
+        },
+        {
+            "name": "Чай",
+            "price": 70,
+            "weight": 50,
+            "available": true
+        },
+        {
+            "name": "Сок",
+            "price": 30,
+            "weight": 200,
+            "available": true
+        },
+        {
+            "name": "Кукла",
+            "price": 5000,
+            "weight": 500,
+            "available": true
+        },
+        {
+            "name": "Киндер сюрприз",
+            "price": 100,
+            "weight": 60,
+            "available": true
+        },
+        {
+            "name": "Мороженное",
+            "price": 100,
+            "weight": 1000,
+            "available": true
+        },
+        {
+            "name": "Сахар",
+            "price": 60,
+            "weight": 1000,
+            "available": true
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+Peripherals - периферийный
+Highlight - выделение
+Recipient - получатель, адресат
+Acronym - аббревиатура, сокращение
+Security - безопасность, защита
+Connect - соединяться, связать
+Attach - прикреплять
+Communicate - контакт, общение, взаимодействие
+Deal with - иметь дело с, заниматься
+Consider - рассматривать
+Confirm - подтверждать
+Interact -  взаимодействие, взаимодействие между собой
+Entertain - развлекать
+A purpose - цель, задача
+Forge - ковать
+Sensitive - чувствительный
+Sensible - здравомыслящий
+To discuss - обсуждать
+To report - сообщать, сообщить
+To attract - привлекать
+Visible - видимый
+Vision - видение, зрение, образ
+Computer crimes - компьютерные преступления
+Distinct - отчетливый, четкий
+Particular - определенный, конкретный
+Supply - поставка, подача
+To store information - для хранения информации
+State - государство
+Condition - состояние
+Safety - безопасность
+Identification - индетификация
+To identify - индефицировать
+Useful - полезный
+Useless - бесполезный
+To require - требовать, потребовать
+To protect - защищать
+To enter - входить
+Confidential - конфиденциальный, секретный, тайный
+To handle information -  обрабатывать информацию
+Immersion - погружение
+To reject - отвергать, отклонить
+Convenient - удобный, комфортный
+To prevent - предотвращать, избегать
+Complicated - сложный, трудный, непростой
+To destroy - уничтожать, разрушать, ломать
+To access - получить доступ
+An access - доступ
+To discover - обнаруживать, находить
+An algorithm - алгоритм
+A mode - режим
+A device - устройство
+An appliance - приложение
+Headphones - наушники
+Equipment - оборудование
+To maintain - поддерживать, обслуживать
+To depend on - зависеть от
+A floppy disk - гибкий диск, дискета
+A memory stick - карта памяти
+To increase - увеличивать, повышать
+To decrease - уменьшать, сокращать
+Separated - разделенный
+Scroll - прокрутить, пролистать
+Shipped - отправленный, отгруженный
+Condition - состояние чего либо
+Employees - сотрудники
+Alias - псевдоним
+Person - человек
+Characteristics - характеристики
+Time and Numbers - время и числа
+Verbs and Lifestyle - глаголы и образ жизни
+Food - еда
+Animals and Nature - животные и природа
+Events and Places - события и места
+Home - дом
